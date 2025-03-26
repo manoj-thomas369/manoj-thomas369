@@ -62,7 +62,15 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manoj-thomas369&show_icons=true&theme=radical" alt="Manoj's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=manoj-thomas369&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  ## 📊 GitHub Stats & Activity  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manoj-thomas369&show_icons=true&theme=radical" alt="Manoj's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-thomas369&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manoj-thomas369&theme=radical" alt="GitHub Profile Summary" />
+</p>
+
 </p>
 
 ---
